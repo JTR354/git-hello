@@ -1,5 +1,8 @@
 hello world
 
 squash  and merge
+<<<<<<< HEAD
 
 1
+=======
+>>>>>>> 9433d700c5f08c911a29dd4253ded21a67f0d149
